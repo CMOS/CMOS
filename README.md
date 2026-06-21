@@ -26,7 +26,7 @@ I also enjoy disassembling servers, routers and other hardware to fix or sometim
 <tr>
 <td valign="top" width="50%">
 
-**Building toward**
+**Areas of Expertise**
 - 🔐 Cybersecurity offense & defense, opsec
 - 🖧 Network protocols, routing, attack vectors
 - 🗄️ Server administration & self-hosting
@@ -79,8 +79,6 @@ I run a small fleet of self-hosted services on my own hardware, and it's where m
 └── security .............. crowdsec, honeypots, custom scripts
 ```
 
-> Want details on the stack? Happy to talk through it, see [reach me](#reach-me).
-
 ---
 
 ### <a id="stats"></a>`stats`
@@ -95,14 +93,15 @@ I run a small fleet of self-hosted services on my own hardware, and it's where m
 
 ### <a id="reach-me"></a>`reach me`
 
-<p>
+<p align="center">
   <a href="https://github.com/CMOS">
     <img src="https://img.shields.io/badge/GitHub-@CMOS-0d0a14?style=flat-square&logo=github&logoColor=c9a3ff&labelColor=15101f" alt="GitHub" />
   </a>
-  <!-- Add your other links here, e.g.:
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d0a14?style=flat-square&logo=protonmail&logoColor=a371f7&labelColor=15101f" alt="Email" /></a>
-  <a href="https://your-site"><img src="https://img.shields.io/badge/Website-0d0a14?style=flat-square&logo=firefoxbrowser&logoColor=a371f7&labelColor=15101f" alt="Website" /></a>
-  -->
+  <a href="https://discord.com/users/888543198958477344">
+    <img src="https://img.shields.io/badge/Discord-stellabyte-0d0a14?style=flat-square&logo=discord&logoColor=c9a3ff&labelColor=15101f" alt="Discord" style="height:24px;" />
+  </a>
+  <a href="mailto:stella@stella.stella">
+    <img src="https://img.shields.io/badge/Email-stella@stella.stella-0d0a14?style=flat-square&logo=protonmail&logoColor=a371f7&labelColor=15101f" alt="Email" style="height:24px;" />
+  </a>
 </p>
-
 <p align="center"><sub>built &amp; broken on Linux · since 2020</sub></p>
