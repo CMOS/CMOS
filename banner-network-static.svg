@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Stella — security, self-hosting, networking">
+  <defs>
+    <linearGradient id="nameGradN" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e8defb"></stop><stop offset="1" stop-color="#a371f7"></stop>
+    </linearGradient>
+    <radialGradient id="bgGlowN" cx="0.72" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.18"></stop><stop offset="1" stop-color="#7c5cff" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="nodeGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.5"></stop><stop offset="1" stop-color="#a371f7" stop-opacity="0"></stop>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18"></feGaussianBlur>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" fill="#0d0a14"></rect>
+  <rect width="1200" height="300" fill="url(#bgGlowN)" opacity="0.88"></rect>
+  
+  <rect width="1200" height="300" fill="url(#bgGlowN)" opacity="0.3"></rect>
+
+  
+  <g stroke="#a371f7" stroke-width="1.5" fill="none">
+    <line x1="780" y1="80" x2="900" y2="150" opacity="0.28"></line>
+    <line x1="900" y1="150" x2="1030" y2="90" opacity="0.36"></line>
+    <line x1="900" y1="150" x2="1010" y2="230" opacity="0.22"></line>
+    <line x1="780" y1="80" x2="820" y2="210" opacity="0.18"></line>
+    <line x1="820" y1="210" x2="1010" y2="230" opacity="0.30"></line>
+    <line x1="1030" y1="90" x2="1130" y2="170" opacity="0.24"></line>
+    <line x1="1010" y1="230" x2="1130" y2="170" opacity="0.20"></line>
+  </g>
+  
+  <g stroke="#58a6ff" stroke-width="2" fill="none" opacity="0.55" stroke-dasharray="4 10" stroke-dashoffset="-8">
+    <line x1="900" y1="150" x2="1030" y2="90"></line>
+    <line x1="820" y1="210" x2="1010" y2="230" stroke-dashoffset="-16"></line>
+  </g>
+
+  
+  <g fill="#a371f7" filter="url(#softGlow)" opacity="0.35">
+    <circle cx="900" cy="150" r="14" fill="#58a6ff"></circle>
+    <circle cx="1030" cy="90" r="10"></circle>
+    <circle cx="1010" cy="230" r="10" fill="#58a6ff"></circle>
+  </g>
+  
+  <g filter="url(#glow)">
+    <circle cx="780" cy="80" r="4.5" fill="#c9a3ff" opacity="0.8"></circle>
+    <circle cx="900" cy="150" r="5.5" fill="#58a6ff"></circle>
+    <circle cx="1030" cy="90" r="5" fill="#c9a3ff" opacity="0.9"></circle>
+    <circle cx="820" cy="210" r="4" fill="#c9a3ff" opacity="0.7"></circle>
+    <circle cx="1010" cy="230" r="5" fill="#58a6ff" opacity="0.85"></circle>
+    <circle cx="1130" cy="170" r="4.5" fill="#c9a3ff" opacity="0.75"></circle>
+  </g>
+
+  
+  <text x="80" y="130" font-family="ui-sans-serif,&#39;Segoe UI&#39;,system-ui,sans-serif" font-weight="800" font-size="84" fill="url(#nameGradN)" letter-spacing="-1">Stella</text>
+  <rect x="84" y="152" width="190" height="3" rx="1.5" fill="#a371f7"></rect>
+  <text x="84" y="194" font-family="ui-monospace,&#39;JetBrains Mono&#39;,monospace" font-size="24" fill="#b9b2cc">security · self-hosting · networking</text>
+  <text x="84" y="228" font-family="ui-monospace,&#39;JetBrains Mono&#39;,monospace" font-size="18" fill="#6a637e">python / js / java / go / flutter — on linux, daily</text>
+</svg>
