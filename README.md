@@ -27,8 +27,8 @@ I also enjoy disassembling servers, routers and other hardware to fix or sometim
 <td valign="top" width="50%">
 
 **Building toward**
-- 🔐 Cybersecurity - offense & defense, opsec
-- 🖧 Networking - protocols, routing, attack vectors
+- 🔐 Cybersecurity offense & defense, opsec
+- 🖧 Network protocols, routing, attack vectors
 - 🗄️ Server administration & self-hosting
 
 </td>
