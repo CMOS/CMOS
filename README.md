@@ -28,7 +28,7 @@ I also enjoy disassembling servers, routers and other hardware to fix or sometim
 
 **Building toward**
 - 🔐 Cybersecurity - offensive & defensive fundamentals, opsec
-- 🖧 Networking - protocols, routing, the layers under the abstraction
+- 🖧 Networking - protocols, routing, attack vectors
 - 🗄️ Server administration & self-hosting
 
 </td>
