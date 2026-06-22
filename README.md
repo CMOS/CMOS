@@ -100,7 +100,7 @@ I run a small fleet of self-hosted services on my own hardware, and it's where m
   <a href="https://discord.com/users/888543198958477344">
     <img src="https://img.shields.io/badge/Discord-stellabyte-0d0a14?style=flat-square&logo=discord&logoColor=c9a3ff&labelColor=15101f" alt="Discord" style="height:24px;" />
   </a>
-  <a href="mailto:stella@stella.stella">
+  <a href="mailto:stella@stella.re">
     <img src="https://img.shields.io/badge/Email-stella@stella.stella-0d0a14?style=flat-square&logo=protonmail&logoColor=a371f7&labelColor=15101f" alt="Email" style="height:24px;" />
   </a>
 </p>
