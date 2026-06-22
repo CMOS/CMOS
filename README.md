@@ -84,7 +84,7 @@ I run a small fleet of self-hosted services on my own hardware, and it's where m
 ### <a id="stats"></a>`stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CMOS&show_icons=true&hide_border=true&bg_color=0d0a14&title_color=a371f7&icon_color=58a6ff&text_color=b9b2cc&ring_color=a371f7" alt="Stella's GitHub stats" />
+  <img height="165" src="https://github-stats-extended-frontend-delta.vercel.app/api?username=CMOS&show_icons=true&hide_border=true&bg_color=0d0a14&title_color=a371f7&icon_color=58a6ff&text_color=b9b2cc&ring_color=a371f7" alt="Stella's GitHub stats" />
 </p>
 
 <!-- Stats cards are served by github-readme-stats. You can self-host that project too if you'd rather not depend on a third party. -->
